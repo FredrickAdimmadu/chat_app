@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "722218540390",
+    "firebase_url": "https://yapo-2e6d1-default-rtdb.firebaseio.com",
+    "project_id": "yapo-2e6d1",
+    "storage_bucket": "yapo-2e6d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722218540390:android:a31ea12000ca30885ebca7",
+        "android_client_info": {
+          "package_name": "com.example.yap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722218540390-9nuam8t3gekb0un5noeppgorpiktio1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yap",
+            "certificate_hash": "4b407caca09091b7eaf35d482b853fa946d7f6ed"
+          }
+        },
+        {
+          "client_id": "722218540390-72i3g42k74e27p4p9en1o5bd13f78e2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA4SfFC-s8S95-5DYCcNgOWLQgBEbyIRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722218540390-5jk352v5koqb03ps039i0hr9314oqk6h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "722218540390-l1pf6ilg4akmfi8fgljjahdilej6h13b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
